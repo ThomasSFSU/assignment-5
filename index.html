@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 5</title>
+    <link rel="icon" href="./resources/favicon.svg" type="image/svg+xml">
+  </head>
+  <body style="background-color:#abd8ff;">
+    <img src="./resources/banner.svg" alt="A partly sunny mountain-scape." height="300px" width="100%"/>
+    <nav class="menu">
+        <ul>
+            <li>
+                <a href="./index.html">HOME</a>
+                <a href="./views/two.html">PAGE 2</a>
+                <a href="./views/three.html">PAGE 3</a>
+            </li>
+        </ul>
+    </nav>
+    <h1>Assignment 5</h1>
+    <h2 class="css-question">How to Apply CSS to HTML</h2>
+    <p class="css-question">
+        It is a best practice to link to external Cascading Style Sheets (CSS) rather      
+        than styling a page directly from the HTML document.
+        To acheive this, we create a <code>.css</code> file and link to it at the top of our
+        html document.
+        <h3>Example:</h3>
+        <pre>
+            <code>
+                &lt;head&gt;
+                    &lt;link rel="stylesheet" href="styles.css"&gt;&lt;/link&gt;
+                &lt;/head&gt;
+            </code>
+        </pre>
+        It is also possible to use css directly within an HTML document.
+        To do this we include the css code in inside an html tag.
+        <h3>Inline CSS Example</h3>
+        <pre>
+            <code>
+                &lt;p style="color:red;" &gt;
+                    This paragraph will be red.
+                &lt;/p&gt;
+            </code>
+        </pre>
+    </p>
+    <h2 class="js-question">How to Use JavaScript in a Webpage</h2>
+    <p class="js-question">
+        To link an external javascript file, we simply create a <code>.js</code> file and link
+        to it.
+        <h3> External Linkage Example</h3>
+        <pre>
+            <code>
+                &lt;head&gt;
+                    &lt;script src="script.js"&gt;&lt;/script&gt;
+                &lt;/head&gt;
+            </code>
+        </pre>
+        It is also possible to use javascript directly within an HTML document.
+        To do this we include the javascript code in a <code>&lt;script&gt;</code> tag.
+        <h3> Internal Scripting Example</h3>
+        <pre>
+            <code>
+                &lt;script&gt;
+                    console.log("This script runs from within the HTML document!");
+                &lt;/script&gt;
+            </code>
+        </pre>
+    </p>
+
+    
+  </body>
+</html>
