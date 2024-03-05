@@ -1,7 +1,7 @@
 # HTML and SVG Project
 <p align="center">
   <img src="https://thomassfsu.github.io/assignment-5/resources/sunset.svg" alt="My Sunset Art SVG" height="400px">
-  <figcaption>My image of a sunset created using SVG.</figcaption>
+  My image of a sunset created using SVG.
 </p>
 
 ## Description
