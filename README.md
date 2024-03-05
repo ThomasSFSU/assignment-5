@@ -1,4 +1,4 @@
-# HTML and SVG Project
+# Assignment 5
 <p align="center" text-align="center">
   <img src="https://thomassfsu.github.io/assignment-5/resources/sunset.svg" alt="My Sunset Art SVG" height="500px"/>
 </p>
