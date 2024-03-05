@@ -1,5 +1,5 @@
 # HTML and SVG Project
-<p align="center">
+<p align="center" text-align="center">
   <img src="https://thomassfsu.github.io/assignment-5/resources/sunset.svg" alt="My Sunset Art SVG" height="400px"/>
   
   My image of a sunset created using SVG.
