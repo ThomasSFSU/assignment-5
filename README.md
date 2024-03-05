@@ -1,5 +1,5 @@
 # HTML and SVG Project
-<img src="https://thomassfsu.github.io/assignment-5/resources/sunset.svg">
+<img src="https://thomassfsu.github.io/assignment-5/resources/sunset.svg" height="400px">
 ![My Sunset Art](https://thomassfsu.github.io/assignment-5/resources/sunset.svg)
 *My SVG image of a sunset*
 
