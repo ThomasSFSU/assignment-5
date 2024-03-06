@@ -21,6 +21,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 - [W3Schools](https://www.w3schools.com/) for providing valuable resources on HTML and SVG.
 - [MDN Web Docs](https://developer.mozilla.org/) for comprehensive documentation on web technologies.
 - [Nina Mir's Tutorial](https://github.com/nina-mir/CSC317-assignments/tree/main/assignment-5) for the project instructions and templates.
+- [Dom Designs' Tutorial on Youtube](https://youtu.be/8kz0bZQDm60?si=fK9Sanfx9UiGGWrd) for technical information and graphic design ideas.
 
 ## About the Author
 This project is maintained by [ThomasSFSU](https://github.com/ThomasSFSU). Feel free to reach out with any questions or feedback.
